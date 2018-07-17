@@ -66,4 +66,11 @@ def number_to_short_month_name(month_number)
   }
   return months[month_number]
 end
-   
+
+def volume_of_cube(length)
+   return length**3
+end
+
+def volume_of_sphere(radius)
+  return (4.0/3.0)*3.14*r**3
+end
